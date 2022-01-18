@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe3468b7f2b8e6a5e8c308aa5ee39eb72406f8a9f",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe3468b7f2b8e6a5e8c308aa5ee39eb72406f8a9f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Prickly Greek Fwogs",
+  "SYMBOL": "PGF",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-prickly-greek-fwogs",
+  "SHOW_BACKGROUND": true
+}
